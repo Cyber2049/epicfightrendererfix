@@ -1,0 +1,10 @@
+{
+	"overrides": [
+		{
+		  "predicate": {
+			"efrenderfix:custom": 0
+		  },
+		  "model": "epicfight:item/uchigatana_sheath"
+		}
+	  ]
+}
